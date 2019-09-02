@@ -1,0 +1,53 @@
+
+.head{position:absolute;top:0px;left:0px;height:1000px;width:1600px;background-image:url(https://github.com/yycfollow35/beautiful-web/blob/master/%E4%B8%80%E4%B8%AA%E6%BC%82%E4%BA%AE%E7%9A%84%E7%BD%91%E9%A1%B5_01.png?raw=true);}
+.hw{font-size:50px;color:white;position:absolute;top:210px;left:640px;text-align:center;background-color:transparent;}
+.killer{font-size:18px;color:gray;position:absolute;top:343px;left:442px;background-color:transparent;}
+.leon{font-size:18px;color:gray;position:absolute;top:413px;left:741px;background-color:transparent;}
+.account{position:absolute;top:532px;left:317px;height:249px;width:965px;border:1px solid gray;background-color:transparent;}
+.creat{font-size:16px;color:white;position:absolute;top:592px;left:720px;background-color:transparent;}
+.free{font-size:10px;color:gray;position:absolute;top:623px;left:735px;background-color:transparent;}
+.email{font-size:13px;text-align:center;border:1px solid gray;line-height:height;height:50px;width:292px;color:white;position:absolute;top:678px;left:415px;background-color:transparent;}
+.pwd{font-size:13px;text-align:center;border:1px solid gray;
+    line-height:height;height:50px;width:292px;color:gray;position:absolute;top:678px;left:737px;background-color:transparent;}
+.sign{font-size:13px;text-align:center;line-height:height;height:50px;width:125px;color:black;position:absolute;top:678px;left:1058px;background-color:white;}
+.awesome{height:600px;width:1600px;position:absolute;top:1000px;left:0px;}
+.boat{margin-top:80px;font-size:15px;text-align:center;padding:0;margin-bottom:0;}
+.ready{height:100px;width:659px;padding:0;font-size:40px;text-align:center;margin:20px auto 43px auto;line-height:1em;}
+.img1{float:left;margin-left:35px;margin-bottom:0;}
+.img2{float:left;margin-left:150px;margin-bottom:0;}
+.img3{float:left;margin-left:35px;}
+.img4{float:left;margin-left:146px;}
+.mobile{float:left;font-size:15px;margin-bottom:0;}
+.access{float:left;font-size:15px;margin-bottom:0;}
+.fluid{float:left;font-size:15px;}
+.custom{float:left;font-size:15px;}
+img{display:block;margin-right:29px;}
+.clear{clear:both;height:83px;margin:0;}
+.img34{clear:both;}
+.four{height:280px;width:1050px;;margin:0 auto;}
+pre{display:block;margin-top:0;color:gray;}
+.mobile:first-line{font-weight:bold;font-size:17px;color:black;}
+.access:first-line{font-weight:bold;font-size:17px;}
+.fluid:first-line{font-weight:bold;font-size:17px;}
+.custom:first-line{font-weight:bold;font-size:17px;}
+.three{position:relative;height:800px;width:1600px;background-image:url(https://github.com/yycfollow35/beautiful-web/blob/master/%E4%B8%80%E4%B8%AA%E6%BC%82%E4%BA%AE%E7%9A%84%E7%BD%91%E9%A1%B5_13.png?raw=true);}
+.ipad{border-width:1px 0 1px 1px;border-style: solid;border-color: gray;border-radius:40px 0 0 40px;float:right;margin:103px 0 103px 118px;height:600px;width:646px;}
+.circle{float:left;border:1px solid gray;border-radius:5px;height:8px;width:8px;margin-top:296px;margin-right:19px;margin-left:30px;}
+.topic{margin-top:30px;margin-right:0;margin-left:0px;float:right;}
+.sup{position:absolute;top:184px;left:321px;margin:0;padding:0;height:145px;width:320px;box-sizing:border-box;font-size:33px;color:white;line-height:1.5em;}
+.China{position:absolute;top:369px;left:321px;margin:0;padding:0;height:131px;width:368px;box-sizing:border-box;font-size:17px;color:gray;line-height:1.5em;}
+.check{position:absolute;top:555px;left:321px;background-color:white;box-sizing:border-box;height:60px;width:240px;border-radius:3px;}
+.try{position:absolute;top:555px;left:584px;color:white;background-color:transparent;border:1px solid gray;box-sizing:border-box;height:60px;width:235px;border-radius:3px;}
+.flex{height:581px;width:1600px;border-bottom:1px solid gray;position:absolute;left:0;top:1400px;}
+.TOAP{padding:0;margin:103px auto 93px auto;text-align:center;font-size:42px;}
+.coverthree{height:280px;width:960px;margin:0 auto;padding:0;display:flex;}
+.sing1{margin-top:38px;}
+.hero1{margin-top:38px;}
+.pontland1{margin-top:38px;}
+.p1{flex:1;margin:0 95px 0 0;}
+.p2{flex:1;margin:0 95px 0 0;}
+.p3{flex:1;margin:0;}
+img{display:block;}
+.singletan{margin:0 auto;}
+.hero{margin:0 auto;}
+.pontland{margin:0 auto;}
